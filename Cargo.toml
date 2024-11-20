@@ -1,0 +1,8 @@
+[package]
+name = "randm"
+version = "0.1.6"
+edition = "2021"
+authors = ["666rayen999"]
+description = "Small, fast, and efficient random generation crate"
+license = "MIT"
+repository = "https://github.com/666rayen999/randm"
